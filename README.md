@@ -19,5 +19,5 @@ Create Android App with Python Framework Kivy
 ایجاد یک فایل به نام buildozer.spec در همان دایرکتوری و اضافه کردن تنظیمات زیر به آن:
     
 سپس، اجرای دستور زیر برای ساخت فایل APK:
-```buildozer android debug```
 
+```buildozer android debug```
